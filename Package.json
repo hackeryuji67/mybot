@@ -1,0 +1,17 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp bot that calculates profits, provides financial advice, and more",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "whatsapp-web.js": "^1.15.0",
+    "qrcode-terminal": "^0.12.0",
+    "mathjs": "^10.8.0",
+    "financequote": "^1.2.0"
+  }
+}
